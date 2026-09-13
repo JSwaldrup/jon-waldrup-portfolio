@@ -1,4 +1,4 @@
-# waldrupcv_july2026
+# Jon Waldrup 2026 Portfolio
 
-Here I share my projects, organized by geospatial skill. 
+Find my recent work here 
 
