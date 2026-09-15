@@ -26,7 +26,7 @@ To see the Experience in it's own window: **[Explore Interactive Map](https://ex
 Network and spatial analysis of access to healthcare in the Pacific Northwest (March, 2025) **[View StoryMap](https://storymaps.arcgis.com/stories/89a89999d6564d5d900b0f1bb6bcc08f)**
 
 ## 🎓 Undergraduate CV (December, 2024) 
-This includes some pretty good cartography **[View StoryMap](https://storymaps.arcgis.com/stories/4d034af88b9b43eb9cda009be1d4adda)**
+It looks like some of the video links are broken, but this includes some pretty good cartography **[View StoryMap](https://storymaps.arcgis.com/stories/4d034af88b9b43eb9cda009be1d4adda)**
 
 ## 📚 Publication (September, 2026)
 A co-authored manuscript based on my master's capstone research, *Burden of Treatment in a Ban State: The Experience of Accessing Specialist OB/GYN Care in Idaho*, has been submitted for peer review. 
