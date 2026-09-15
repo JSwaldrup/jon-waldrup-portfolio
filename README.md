@@ -2,10 +2,10 @@
 
 Welcome to a selection of my recent work in applied geography and cartography
 
-## 📄 Resume
+## 📄 Resume (September, 2026)
 ➡️ **[View Resume](./WaldrupJ_2026_resume.pdf)
 
-## 🌲 Wildfire Risk Mitigation Project
+## 🌲 Wildfire Risk Mitigation Project (February, 2025)
 Comprehensive wildfire risk mitigation analysis focused on community resilience, hazard reduction, and planning strategies.
 ➡️ **[Read Wildfire Risk Mitigation Paper](./wildfire-risk-mitigation-bonner-county.pdf)**
 
@@ -23,6 +23,6 @@ My MS research examines patient burden associated with accessing specialist OB/G
 ## 🗺️ Healthcare Access in the Pacific Northwest - ArcGIS Pro/AGOL/Survey123 class project (March 2026)
 A network analysis of access to healthcare in the Pacific Northwest (March, 2025) **[View StoryMap](https://storymaps.arcgis.com/stories/89a89999d6564d5d900b0f1bb6bcc08f)**
 
-# Undergraduate CV This includes some pretty good cartography 
+# Undergraduate CV This includes some pretty good cartography (December, 2024)
 **[View StoryMap](https://storymaps.arcgis.com/stories/4d034af88b9b43eb9cda009be1d4adda)**
 
