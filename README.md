@@ -25,5 +25,5 @@ A network analysis of access to healthcare in the Pacific Northwest (March, 2025
 ## 🎓 Undergraduate CV (December, 2024) 
 This includes some pretty good cartography **[View StoryMap](https://storymaps.arcgis.com/stories/4d034af88b9b43eb9cda009be1d4adda)**
 
-## 📚 Publication (Summer, 2024)
+## 📚 Publication (September, 2026)
 A co-authored manuscript based on my master's capstone research, *Burden of Treatment in a Ban State: The Experience of Accessing Specialist OB/GYN Care in Idaho*, has been submitted for peer review. 
