@@ -22,6 +22,8 @@ To see the Experience in it's own window: **[Explore Interactive Map](https://ex
 ## 🗺️ Healthcare Access in the Pacific Northwest - ArcGIS Pro/AGOL/Survey123 class project (March 2026)
 A network analysis of access to healthcare in the Pacific Northwest (March, 2025) **[View StoryMap](https://storymaps.arcgis.com/stories/89a89999d6564d5d900b0f1bb6bcc08f)**
 
-# Undergraduate CV This includes some pretty good cartography (December, 2024)
-**[View StoryMap](https://storymaps.arcgis.com/stories/4d034af88b9b43eb9cda009be1d4adda)**
+## 🎓 Undergraduate CV (December, 2024) 
+This includes some pretty good cartography **[View StoryMap](https://storymaps.arcgis.com/stories/4d034af88b9b43eb9cda009be1d4adda)**
 
+## 📚 Publication (Summer, 2024)
+A co-authored manuscript based on my master's capstone research, *Burden of Treatment in a Ban State: The Experience of Accessing Specialist OB/GYN Care in Idaho*, has been submitted for peer review. 
