@@ -17,7 +17,7 @@ ArcGIS Experience Builder project to provide static and interactive visualizatio
 To see the Experience in it's own window: **[Explore Interactive Map](https://experience.arcgis.com/experience/814a9818b3db4f4f97e25f560629df00)**
 
 ## 🗺️ Cartography Portfolio (2022–2026) Static map layouts I want to highlight 
-**➡️ [View Cartography Portfolio](./Cartography/** 
+**➡️ [View Cartography Portfolio](./Cartography/)**   
 
 ## 🏥 Access to Healthcare in Idaho - MapBox/Leaflet/Turf.js Interactive map (March, 2026) This is an unfinished project (Sept, 2026) for The Pro Voice Project 
 **[View Project](https://jswaldrup.github.io/idahohealthcare/)**
