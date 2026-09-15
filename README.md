@@ -3,11 +3,11 @@
 Welcome to a selection of my recent work in applied geography and cartography
 
 ## 📄 Resume
-➡️ **./WaldrupJ_2026_resume.pdf** 
+➡️ **[View Resume](./WaldrupJ_2026_resume.pdf)
 
 ## 🌲 Wildfire Risk Mitigation Project
 Comprehensive wildfire risk mitigation analysis focused on community resilience, hazard reduction, and planning strategies.
-➡️ **./wildfire-risk-mitigation-bonner-county.pdf**
+➡️ **[Read Wildfire Risk Mitigation Paper](./wildfire-risk-mitigation-bonner-county.pdf)**
 
 ## ✈️ Airport Lead Emissions Cartography (Summer, 2026)
 ArcGIS Experience Builder project to provide static and interactive visualizations for Portland Area and National Airport Lead Emissions to the Pacific Northwest Center for Translational Environmental Health Research. I provided interactive layouts that worked within an iframe and across device types - **[Explore Research & Interactive Maps](https://ehsc.oregonstate.edu/our-research/research-highlights/leaded-aviation-gas)**
