@@ -17,7 +17,7 @@ ArcGIS Experience Builder project to provide static and interactive visualizatio
 To see the Experience in it's own window: **[Explore Interactive Map](https://experience.arcgis.com/experience/814a9818b3db4f4f97e25f560629df00)**
 
 ## 🪣KootenaiCoal (September, 2026)
-Still cartography plus Riverflow animation for the Idaho Conservation League. My contribution to the project was completed entirely within ArcGIS Pro, which limits export resolution at 1920x1080 as per ICL. Look for this exported from MapBox at 4k soon. **[View KootenaiCoal Folder](./Cartography/KootenaiCoal/)**
+Still cartography plus Riverflow animation for the Idaho Conservation League. Look for this exported from MapBox at 4k soon. **[View KootenaiCoal Folder](./Cartography/KootenaiCoal/)**
 
 ## 🗺️ Cartography Portfolio (2022–2026) Static map layouts I want to highlight 
 **➡️ [View Cartography Portfolio](./Cartography/)**   
