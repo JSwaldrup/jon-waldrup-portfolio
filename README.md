@@ -1,7 +1,6 @@
 # Jon Waldrup 2026 Portfolio
 
-# Find my recent work here 
-# Explore folders and documents in the left panel 
+# Explore folders and documents  
 
 #ArcGIS Experience Builder project Summer 2026
 Portland-Area and National Airport Lead Emissions - web experience (September, 2026): https://experience.arcgis.com/experience/814a9818b3db4f4f97e25f560629df00
