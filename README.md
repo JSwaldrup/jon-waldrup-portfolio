@@ -20,7 +20,7 @@ To see the Experience in it's own window: **[Explore Interactive Map](https://ex
 **[View Project](https://jswaldrup.github.io/idahohealthcare/)**
 
 ## 🗺️ Healthcare Access in the Pacific Northwest - ArcGIS Pro/AGOL/Survey123 class project (March 2026)
-A network analysis of access to healthcare in the Pacific Northwest (March, 2025) **[View StoryMap](https://storymaps.arcgis.com/stories/89a89999d6564d5d900b0f1bb6bcc08f)**
+Network and spatial analysis of access to healthcare in the Pacific Northwest (March, 2025) **[View StoryMap](https://storymaps.arcgis.com/stories/89a89999d6564d5d900b0f1bb6bcc08f)**
 
 ## 🎓 Undergraduate CV (December, 2024) 
 This includes some pretty good cartography **[View StoryMap](https://storymaps.arcgis.com/stories/4d034af88b9b43eb9cda009be1d4adda)**
