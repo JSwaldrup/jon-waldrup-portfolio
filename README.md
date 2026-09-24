@@ -25,8 +25,9 @@ Still cartography plus Riverflow animation for the Idaho Conservation League. Lo
 ## 🏥 Access to Healthcare in Idaho - MapBox/Leaflet/Turf.js Interactive map (March, 2026) This is an unfinished project (Sept, 2026) for The Pro Voice Project 
 **[View Project](https://jswaldrup.github.io/idahohealthcare/)**
 
-## 🗺️ Healthcare Access in the Pacific Northwest - ArcGIS Pro/AGOL/Survey123 class project (March 2026)
-Network and spatial analysis of access to healthcare in the Pacific Northwest (March, 2025) **[View StoryMap](https://storymaps.arcgis.com/stories/89a89999d6564d5d900b0f1bb6bcc08f)**
+## 🗺️ Healthcare Access in the Pacific Northwest - ArcGIS Pro/AGOL/Survey123 class project (March 2025)
+Network and spatial analysis of access to healthcare in the Pacific Northwest 
+**[View StoryMap](https://storymaps.arcgis.com/stories/89a89999d6564d5d900b0f1bb6bcc08f)**
 
 ## 🎓 Undergraduate CV (December, 2024) 
 It looks like some of the video links are broken, but this includes some pretty good cartography **[View StoryMap](https://storymaps.arcgis.com/stories/4d034af88b9b43eb9cda009be1d4adda)**
