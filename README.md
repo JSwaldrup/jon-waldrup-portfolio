@@ -5,9 +5,6 @@ Welcome to a selection of my recent work in applied geography and cartography
 ## 📄 Curriculum Vitae (November 2026)
 ➡️ **[View CV](./WaldrupJ_CV2026.pdf)**
 
-## 📄 Resume (September, 2026)
-➡️ **[View Resume](./WaldrupJ_2026_resume.pdf)
-
 ## 🎓 MS Capstone Project Burden of Treatment in a Ban State: the experience of accessing specialist OB/GYN care in Idaho (May, 2026) 
 My MS research examines patient burden associated with accessing specialist OB/GYN care in Idaho. **[Read Capstone Project](https://ir.library.oregonstate.edu/concern/graduate_projects/1z40m3046)**
 
