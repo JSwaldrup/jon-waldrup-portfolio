@@ -2,6 +2,9 @@
 
 Welcome to a selection of my recent work in applied geography and cartography
 
+## 📄 Curriculum Vitae (November 2026)
+➡️ **[View CV](./WaldrupJ_CV2026.pdf)**
+
 ## 📄 Resume (September, 2026)
 ➡️ **[View Resume](./WaldrupJ_2026_resume.pdf)
 
